@@ -1,0 +1,6 @@
+{
+  "name": "Nakawa LC1 Citizens Records Management System",
+  "description": "Digital records management, citizen register, land registry, committee resolutions, and ID verification database for Nakawa Local Council 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
